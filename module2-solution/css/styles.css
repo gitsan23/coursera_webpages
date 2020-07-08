@@ -23,7 +23,7 @@ font-size: 400%;
 margin-bottom:5px;
 position:relative;
 background-color:#b5c4d2;
-border:2px solid black;
+border:1px solid black;
 }
 
 p
@@ -36,7 +36,7 @@ padding:15px;
 
 section>h2 
 {   display:inline-block;
-    border: 2px solid black;
+    border: 1px solid black;
 	text-align: center;
 	width: 40%;
 	margin-left:60%;
