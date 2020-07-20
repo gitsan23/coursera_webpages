@@ -4,3 +4,5 @@ Module 2 solution link: https://gitsan23.github.io/coursera_webpages/module2-sol
 Module 3 solution link: https://gitsan23.github.io/coursera_webpages/module3-solution/
 
 Module 4 solution link: https://gitsan23.github.io/coursera_webpages/module4-solution/
+
+Module 5 solution link: https://gitsan23.github.io/coursera_webpages/module5-solution/
